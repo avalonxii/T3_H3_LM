@@ -1,0 +1,90 @@
+[{
+    "idAlumno":"12567834D",
+    "nombre":"Pepe Sevilla Cordero",
+    "curso":"2º A",
+    "calificaciones":{
+        "Programacion":7,
+        "Base de Datos":8,
+        "Lenguaje de Marcas":8,
+        "Sistemas Infiramticos":5,
+        "Entornos de Desarrollo":6,
+        "Fol":7 
+    }  
+},
+{
+    "idAlumno":"58253946Y",
+    "nombre":"Anais Gallego Grande",
+    "curso":"2º B",
+    "calificaciones":{
+        "Programacion":9,
+        "Base de Datos":8,
+        "Lenguaje de Marcas":8,
+        "Sistemas Infiramticos":7,
+        "Entornos de Desarrollo":6,
+        "Fol":8 
+    }  
+},
+{
+    "idAlumno":"30078928B",
+    "nombre":"Antonio Jose Calleja",
+    "curso":"1º A",
+    "calificaciones":{
+        "Programacion":6,
+        "Base de Datos":6,
+        "Lenguaje de Marcas":8,
+        "Sistemas Infiramticos":5,
+        "Entornos de Desarrollo":5,
+        "Fol":10 
+    }  
+},
+{
+    "idAlumno":"43206162H",
+    "nombre":"Adolfo Armas Esteban",
+    "curso":"1º A",
+    "calificaciones":{
+        "Programacion":4,
+        "Base de Datos":2,
+        "Lenguaje de Marcas":7,
+        "Sistemas Infiramticos":3,
+        "Entornos de Desarrollo":5,
+        "Fol":8 
+    }  
+},
+{
+    "idAlumno":"40938141G",
+    "nombre":"Javier Montesinos Serrano",
+    "curso":"1º A",
+    "calificaciones":{
+        "Programacion":6,
+        "Base de Datos":6,
+        "Lenguaje de Marcas":8,
+        "Sistemas Infiramticos":5,
+        "Entornos de Desarrollo":5,
+        "Fol":10 
+    }  
+},
+{
+    "idAlumno":"21196255F",
+    "nombre":"Leticia Nieves Alvero",
+    "curso":"1º A",
+    "calificaciones":{
+        "Programacion":8,
+        "Base de Datos":7,
+        "Lenguaje de Marcas":8,
+        "Sistemas Infiramticos":6,
+        "Entornos de Desarrollo":7,
+        "Fol":10 
+    }  
+},{
+    "idAlumno":"01575856B",
+    "nombre":"Ascension Khun Guirao",
+    "curso":"1º A",
+    "calificaciones":{
+        "Programacion":9,
+        "Base de Datos":10,
+        "Lenguaje de Marcas":8,
+        "Sistemas Infiramticos":7,
+        "Entornos de Desarrollo":6,
+        "Fol":8
+    }  
+}]
